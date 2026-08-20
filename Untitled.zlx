@@ -1,0 +1,70 @@
+{
+  "schema_version": "4.0",
+  "project_name": "Untitled.zlx",
+  "created_at": "",
+  "updated_at": "2026-08-09T21:40:04+00:00",
+  "fixtures": {
+    "PAR64": {
+      "name": "PAR64",
+      "manufacturer": "Test",
+      "channels": 5,
+      "channel_map": [
+        {
+          "label": "Dim",
+          "type": "dimmer"
+        },
+        {
+          "label": "R",
+          "type": "red"
+        },
+        {
+          "label": "G",
+          "type": "green"
+        },
+        {
+          "label": "B",
+          "type": "blue"
+        },
+        {
+          "label": "W",
+          "type": "white"
+        }
+      ],
+      "filename": "PAR64.json",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "QA_PAR": {
+      "name": "QA_PAR",
+      "manufacturer": "QA",
+      "channels": 3,
+      "channel_map": [
+        {
+          "label": "Dim",
+          "type": "dimmer"
+        },
+        {
+          "label": "R",
+          "type": "red"
+        },
+        {
+          "label": "G",
+          "type": "green"
+        }
+      ],
+      "filename": "QA_PAR.json",
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "address_map": {},
+  "songs": {},
+  "artnet": {
+    "target_ip": "192.168.1.99",
+    "universe": 0,
+    "fps": 30
+  },
+  "chases": [],
+  "programs": [],
+  "pages": []
+}

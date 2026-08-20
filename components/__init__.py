@@ -1,0 +1,1 @@
+"""components — chart widgets (Qt)."""

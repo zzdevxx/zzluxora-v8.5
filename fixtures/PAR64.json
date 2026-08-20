@@ -1,0 +1,30 @@
+{
+  "name": "PAR64",
+  "manufacturer": "Test",
+  "channels": 5,
+  "channel_map": [
+    {
+      "label": "Dim",
+      "type": "dimmer"
+    },
+    {
+      "label": "R",
+      "type": "red"
+    },
+    {
+      "label": "G",
+      "type": "green"
+    },
+    {
+      "label": "B",
+      "type": "blue"
+    },
+    {
+      "label": "W",
+      "type": "white"
+    }
+  ],
+  "filename": "PAR64.json",
+  "x": 0.5,
+  "y": 0.5
+}

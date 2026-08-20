@@ -1,0 +1,1 @@
+"""panels — Qt UI layer."""

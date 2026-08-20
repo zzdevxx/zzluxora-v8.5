@@ -1,0 +1,19 @@
+{
+  "name": "QA_PAR",
+  "manufacturer": "QA",
+  "channels": 3,
+  "channel_map": [
+    {
+      "label": "Dim",
+      "type": "dimmer"
+    },
+    {
+      "label": "R",
+      "type": "red"
+    },
+    {
+      "label": "G",
+      "type": "green"
+    }
+  ]
+}

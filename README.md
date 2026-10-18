@@ -171,7 +171,7 @@ zzluxora_v8.5/
 ### Langkah Menjalankan:
 1. **Clone Repositori:**
    ```powershell
-   git clone https://github.com/zzdree/zzluxora-v8.5.git
+   git clone https://gitlab.com/zzdree/zzluxora_v8.5.git
    cd zzluxora-v8.5
    ```
 

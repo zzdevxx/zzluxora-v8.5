@@ -1,4 +1,4 @@
-# 🎛️ zzluxora v8.5.0 (AppContext & .zlx Edition)
+﻿# 🎛️ zzluxora v8.5.0 (AppContext & .zlx Edition)
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Dependency-Injected Architecture & Custom Project File Support.**  
 > Edisi rilis v8.5 dengan arsitektur modern `AppContext` Service Registry (ADR-2), format penyimpanan proyek kustom **`.zlx`**, thread pekerja audio Librosa (`QThread`), dan kelulusan pengujian unit test **42/42 Tests Passed (100%)**.
@@ -214,4 +214,4 @@ pytest tests/ -v
 ## 📜 8. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdree))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.

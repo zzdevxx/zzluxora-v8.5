@@ -1,4 +1,12 @@
-﻿# 🎛️ zzluxora v8.5.0 (AppContext & .zlx Edition)
+﻿> ## STATUS ARSIP: TIDAK AKTIF
+>
+> Repository ini berstatus arsip dan tidak aktif dikembangkan. Versi ini sudah digantikan oleh zzluxora-v10, yang menjadi lanjutan resmi lini produk ZZLUXORA.
+>
+> Isi repository ini tidak diubah dan tidak ada rilis atau pemeliharaan lanjutan. Repository tetap utuh sebagai arsip kode.
+
+---
+
+# 🎛️ zzluxora v8.5.0 (AppContext & .zlx Edition)
 
 > **Native PySide6 (Qt6) + Art-Net DMX512 Lighting Control with Dependency-Injected Architecture & Custom Project File Support.**  
 > Edisi rilis v8.5 dengan arsitektur modern `AppContext` Service Registry (ADR-2), format penyimpanan proyek kustom **`.zlx`**, thread pekerja audio Librosa (`QThread`), dan kelulusan pengujian unit test **42/42 Tests Passed (100%)**.
